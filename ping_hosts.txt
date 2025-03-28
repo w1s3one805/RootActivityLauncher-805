@@ -1,0 +1,27 @@
+FC Driebergen*
+deltaRouter|10.1.1.1|
+google|www.google.com|
+wifiBsoKast|10.0.0.111|
+wifiKantinBar|10.0.0.200|
+wifiKantnRaam|10.0.0.103|
+wifiKantnPlnk|10.0.0.131|
+wifiKlnTrbnAP|10.1.1.21|		
+wifiKlnTrbnRP|10.1.1.22|
+chrmcstGeluid|10.0.0.68|
+tablet-1|10.0.0.21|
+tablet-2|10.0.0.22|
+kassaBarHoek|10.10.10.6|
+kassaBar|10.10.10.5|
+kassaKeuken|10.10.10.4|
+kassaWebshp|192.168.1.99|
+tvKantine|10.0.0.43|
+tvBar|10.0.0.41| 
+tvBso|10.0.0.42|
+schermHal|10.0.0.53|
+ReclameBar|10.0.0.51|
+FotoKantine|10.0.0.48|
+xBoxKantine|10.0.0.50|
+pcBK|10.1.3.1|
+prtBK|10.0.0.31|
+hikvsnNVR|10.100.100.1|
+tedNetMon|10.255.255.254|
